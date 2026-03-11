@@ -282,13 +282,13 @@ html, body, [class*="css"] {
 # ─────────────────────────────────────────────
 NAME  = "Sasibhusana Behera"
 ROLE  = "Full-Stack Developer & ML Engineer"
-PHOTO = None   # set to a file path like "photo.jpg" or a URL to show your photo
+PHOTO = "sasi img latest.jpg"   # set to a file path like "photo.jpg" or a URL to show your photo
 
 CONTACT = {
-    "Email":    "alex@example.com",
+    "Email":    "contact.sasibhusana@gmail.com",
     "Location": "Bangalore, India",
-    "GitHub":   "github.com/alexrivera",
-    "LinkedIn": "linkedin.com/in/alexrivera",
+    "GitHub":   "github.com/Sasi-2005",
+    "LinkedIn": "linkedin.com/in/sasibhusana-b-b30956250/",
 }
 
 PROJECTS = [
@@ -412,3 +412,4 @@ with col2:
             else:
 
                 st.warning("Please fill in all fields.")
+
