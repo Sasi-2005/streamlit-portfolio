@@ -281,7 +281,7 @@ html, body, [class*="css"] {
 #  ✏️  EDIT YOUR INFO HERE
 # ─────────────────────────────────────────────
 NAME  = "Sasibhusana Behera"
-ROLE  = "Full-Stack Developer & ML Engineer"
+ROLE  = "Quantitative Developer | Algorithmic Trading | Financial Modeling"
 PHOTO = "sasi img latest.jpg"   # set to a file path like "photo.jpg" or a URL to show your photo
 
 CONTACT = {
@@ -318,7 +318,7 @@ PROJECTS = [
 # ─────────────────────────────────────────────
 #  HEADER — Name & Role
 # ─────────────────────────────────────────────
-BIO_SHORT = "Full-stack developer with 5+ years of experience building scalable web apps and ML systems. Passionate about clean code, good UX, and shipping things that matter."
+BIO_SHORT = "Aspiring quantitative developer with a strong interest in financial markets, data analysis, and quantitative modeling. I build data-driven financial models and trading strategies using tools such as Python, while applying concepts from statistics and Machine Learning to better understand and analyze market behavior."
 
 # ── Header: photo left, name right, desc below ──
 import base64, os
@@ -412,4 +412,5 @@ with col2:
             else:
 
                 st.warning("Please fill in all fields.")
+
 
