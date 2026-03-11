@@ -280,7 +280,7 @@ html, body, [class*="css"] {
 # ─────────────────────────────────────────────
 #  ✏️  EDIT YOUR INFO HERE
 # ─────────────────────────────────────────────
-NAME  = "Alex Rivera"
+NAME  = "Sasibhusana Behera"
 ROLE  = "Full-Stack Developer & ML Engineer"
 PHOTO = None   # set to a file path like "photo.jpg" or a URL to show your photo
 
@@ -410,4 +410,5 @@ with col2:
                 else:
                     st.error(f"Failed to send: {result}")
             else:
+
                 st.warning("Please fill in all fields.")
